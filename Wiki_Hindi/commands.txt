@@ -1,0 +1,5 @@
+Downloading a Wikipedia dump :  ./download_wiki_dump.sh en
+
+Extracting and cleaning a Wikipedia dump :  ./extract_and_clean_wiki_dump.sh enwiki-latest-pages-articles.xml.bz2
+
+Pre-processing a Wikipedia dump:  python3 preprocess_wiki_dump.py enwiki-latest-pages-articles.txt
