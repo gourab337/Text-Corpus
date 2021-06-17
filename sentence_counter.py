@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
-def main():
+firstfile = open("wiki_hin.txt", "r")
+secondfile = open("hin_small.txt", "w")
 
-    file  = open('sample_ben.txt', 'r').read()
-    end_symbol  = "।"
-    count = file.count(end_symbol)
 
-    print(count)
 
-main()
+secondfile.write()
+
+firstfile.close()
+secondfile.close()

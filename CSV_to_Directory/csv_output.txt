@@ -1,0 +1,6 @@
+"<e><p><l>चाहिए</l><r><s n="num"/><s n="ord"/><s n ="m"/></r></p></e>"
+"<e><p><l>धनी</l><r><s n="num"/><s n="ord"/><s n ="m"/></r></p></e>"
+"<e><p><l>ऋणी</l><r><s n="num"/><s n="ord"/><s n ="m"/></r></p></e>"
+"<e><p><l>इथेल</l><r><s n="num"/><s n="ord"/><s n ="m"/></r></p></e>"
+"<e><p><l>अकेला</l><r><s n="num"/><s n="ord"/><s n ="m"/></r></p></e>"
+"<e><p><l>ग्यारहवें</l><r><s n="num"/><s n="ord"/><s n ="m"/></r></p></e>"
